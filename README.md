@@ -10,9 +10,9 @@ Full-stack web developer building clean web tools, stream overlays, and small pr
 
 | Project | Status | Notes |
 | --- | --- | --- |
-| DBD OBS Overlay | Private Finished build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
-| Rocket league Overlay | Private Finished Build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
-| Web experiments | Ongoing | Small ideas, UI tests, and stream tools |
+| DBD OBS Overlay | Private Finished Build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs | CONTACT FOR INFO
+| Rocket league Overlay | Private Finished Build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs | CONTACT FOR INFO
+| Web experiments | Ongoing | Small ideas, UI tests, and stream tools | 
 | Personal site | In progress | Keeping links and projects easy to find |
 
 ## Contributions
