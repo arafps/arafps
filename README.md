@@ -10,8 +10,8 @@ Full-stack web developer building clean web tools, stream overlays, and small pr
 
 | Project | Status | Notes |
 | --- | --- | --- |
-| DBD OBS Overlay | Dev build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
-| Rocket league Overlay | Release Dev Build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
+| DBD OBS Overlay | Private Finished build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
+| Rocket league Overlay | Private Finished Build | Custom browser-source overlay for OBS with live settings, icons, effects, and configs |
 | Web experiments | Ongoing | Small ideas, UI tests, and stream tools |
 | Personal site | In progress | Keeping links and projects easy to find |
 
@@ -47,6 +47,6 @@ building clean overlays, stream tools, and web experiments one commit at a time
 [![Projects](https://img.shields.io/badge/projects-stream%20tools%20%2F%20web%20apps-f97316?style=for-the-badge)](https://github.com/etodevv?tab=repositories)
 
 ```txt
-currently building: DBD OBS Overlay
+currently building: Personal site
 main focus: clean web tools, streamer utilities, and polished UI
 ```
